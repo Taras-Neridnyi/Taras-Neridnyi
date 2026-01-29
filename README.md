@@ -1,8 +1,12 @@
-## Hi there 👋
+##Hi there 👋
+My name is Taras. I am a student at LPNU (Ukraine) and an aspiring Fullstack Developer!
 
-My name is Taras, and I Student of LPNU in Ukraine and future Fullstack Developer!
+🔭 I’m currently working on a DevOps pet project in Python to practice automation and deployment skills.
 
-- 🔭 I’m currently working on my DevOps mini pet project on python , that just helps me practice new skills.
-- 🌱 I’m currently learning python programming language.
+🌱 I’m currently leveling up my skills with:
 
+100 Days of Code: The Complete Python Pro Bootcamp on Udemy.
 
+The Bits and Bytes of Computer Networking course.
+
+🐍 I’m focused on mastering Python and diving deeper into the DevOps ecosystem
